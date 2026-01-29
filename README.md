@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @tommyscode02
-- 👀 I’m interested in PLC and microcontrollers programming
-- 🌱 I am currently learning the basics of programming in Arduino
+- 👋 Hi, my name is Maciek and you can find here some of my projects that I am currently working on. Despite the fact that I am big fan of industry automation and PLC programming, I also have interest programming smaller devices like microcontrollers. Currently I am trying to figure something out about STM32 which is very common control device. 
 
 
 
